@@ -1,0 +1,36 @@
+.container {
+    padding-top: 2rem;
+}
+
+.location2 {
+    padding-left: 0.5rem;
+}
+
+.fancyhr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(111, 0, 255, 0.75), rgba(0, 0, 0, 0));
+    padding-top: 0.5rem;
+
+}
+
+.pimplink{
+   color: rgba(111, 0, 255, 0.75);
+}
+
+.pimplink:hover{
+    color: rgb(73, 0, 168);
+ }
+
+.btn-purple{
+    background-color: rgba(111, 0, 255, 0.75);
+    color: white;
+}
+
+.btn-purple:hover{
+    background-color: rgb(73, 0, 168);
+    color: white;
+}
+
+<small id="emailHelp" class="form-text text-muted">We'll never share your information with anyone
+                        else.</small>
